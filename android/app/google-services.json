@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62140501375",
+    "project_id": "codex-fd4a2",
+    "storage_bucket": "codex-fd4a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62140501375:android:6fa01ed0b4a5886a1ede4a",
+        "android_client_info": {
+          "package_name": "com.example.codex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuTQ9XasEKQRv-IHgqeSBQ9_U22Ml6MMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
