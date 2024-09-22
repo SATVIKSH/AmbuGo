@@ -30,7 +30,7 @@ AmbuGo is a cross-platform application developed using Flutter. It aims to be a 
  - It provides an option for the driver to toggle between offline and online status based on their working condition.
  - The current location of the driver is displayed using Google Maps.
 
-## Ride Histor
+## Ride History
 ![Python__7_-removebg-preview](https://github.com/user-attachments/assets/e77936b8-57a4-4e42-8f6b-c2f7a734261f)
 
 
